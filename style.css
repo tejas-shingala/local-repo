@@ -1,0 +1,16 @@
+p{
+    color: blue;
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+    background-color: #f0f0f0;
+    padding: 20px;
+    border: 2px solid #000;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.3);
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
